@@ -6,15 +6,15 @@ A web app designed to explored [Prometheus](https://prometheus.io/) data
 
 - List all metrics available for each active targets in a table
 
-![Catalog](/doc/images/catalog.png")
+![](/doc/images/catalog.png)
 
 - Display and edit metrics in a graph
 
-![Graph](/doc/images/graph.png")
+![](/doc/images/graph.png)
 
 - Display metrics in a table with automatic hour to hour, day to day and week to week
 
-![Table](/doc/images/table.png")
+![](/doc/images/table.png)
 
 ## How to use it
 
@@ -29,7 +29,7 @@ If you don't specify environment variable it will take "http://localhost:9090" a
 
 ## How to develop
 
-In 2 different terminal:
+In 2 terminals:
 `lein watch` and `lein repl`
 
 If you don't have a Prometheus instance at hand you can find a docker setup it here: https://github.com/stefanprodan/dockprom

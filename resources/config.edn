@@ -1,0 +1,3 @@
+{:prometheus {:url      #or [#env PROM_URL "http://localhost:9090"]
+              :user     #or [#env PROM_USER "admin"]
+              :password #or [#env PROM_PASSWORD "admin"]}}

@@ -6,15 +6,15 @@ A web app designed to explored [Prometheus](https://prometheus.io/) data
 
 - List all metrics available for each active targets in a table
 
-![](/doc/images/catalog.png")
+![Catalog](/doc/images/catalog.png")
 
 - Display and edit metrics in a graph
 
-![](/doc/images/graph.png")
+![Graph](/doc/images/graph.png")
 
 - Display metrics in a table with automatic hour to hour, day to day and week to week
 
-![](/doc/images/table.png")
+![Table](/doc/images/table.png")
 
 ## How to use it
 

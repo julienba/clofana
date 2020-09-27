@@ -18,7 +18,7 @@ A web app designed to explored [Prometheus](https://prometheus.io/) data
 
 ## How to use it
 
-Download the jar and run it with:
+Download the jar in the [github release](https://github.com/julienba/clofana/releases) and run it with:
 ```
 env 'PROM_URL=your_prometheus_url' 'PROM_USER=your_prometheus_user' 'PROM_PASSWORD=your_prometheus_password'  java -jar clofana.jar
 
